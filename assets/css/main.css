@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #43bff0;
+		color: #888;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -1508,7 +1508,7 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		color: #3e3e3e;
+		color: #c8c8c8;
 		font-weight: 700;
 		display: block;
 		margin: 0 0 0.5em 0;
